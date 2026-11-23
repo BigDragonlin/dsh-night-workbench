@@ -1,0 +1,4 @@
+- insert:
+    - id: night-workbench
+      name: '@local/dsh-night-workbench'
+      config: {}
